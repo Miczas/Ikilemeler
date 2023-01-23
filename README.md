@@ -1,37 +1,6 @@
 # Ikilemeler
 Its a list of Ikileme (Turkish double words) and the script I used to find them, based on https://github.com/mertemin/turkish-word-list/blob/master/words.txt
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Miczas 
-Miczas
-/
-Ikilemeler
-Public
-Fork your own copy of Miczas/Ikilemeler
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Ikilemeler/FirstIkilemeDictionary.txt
-@Miczas
-Miczas The first version of ikileme database
-…
-Latest commit b71343e on Mar 30, 2022
- History
- 1 contributor
-420 lines (420 sloc)  5.4 KB
 
 acı acı
 açık açık
@@ -453,18 +422,3 @@ zıp zıp
 zır zır
 zırıl zırıl
 zırt zırt
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Ikilemeler/FirstIkilemeDictionary.txt at main · Miczas/Ikilemeler
