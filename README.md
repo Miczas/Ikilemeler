@@ -1,3 +1,33 @@
+# Turkish Double Words (İkileme) Finder
+
+This Python script identifies Turkish double words (known as *ikileme*) in a text file and writes those lines to a new output file.
+
+## What is İkileme?
+
+İkileme refers to repeated words or word pairs used in Turkish for emphasis or stylistic reasons. This script detects lines where the first word is repeated within the same line.
+
+## How to use
+
+1. Prepare a text file named `words.txt` (or any filename of your choice) containing Turkish text, one or more words per line.
+
+2. Run the script. It will create (or overwrite) an output file named `FirstIkilemeDictionary.txt` containing only the lines where the first word appears more than once.
+
+```bash
+python your_script_name.py
+
+## How it works
+
+- Reads the input file line by line.
+- Splits each line into words.
+- Checks if the first word repeats in the same line.
+- If yes, writes the entire line to the output file.
+
+## Improvements
+
+- Handle punctuation and case sensitivity for more accurate detection.
+- Extend to detect more complex types of ikileme.
+- Add CLI arguments to specify input/output filenames.
+
 # Ikilemeler
 Its a list of Ikileme (Turkish double words) and the script I used to find them, based on https://github.com/mertemin/turkish-word-list/blob/master/words.txt
 
