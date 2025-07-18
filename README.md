@@ -12,9 +12,6 @@ This Python script identifies Turkish double words (known as *ikileme*) in a tex
 
 2. Run the script. It will create (or overwrite) an output file named `FirstIkilemeDictionary.txt` containing only the lines where the first word appears more than once.
 
-```bash
-python your_script_name.py
-
 ## How it works
 
 - Reads the input file line by line.
